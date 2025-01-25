@@ -1,0 +1,10 @@
+flask
+pydub
+gtts
+langchain
+assemblyai
+python-dotenv
+ffmpeg-python
+
+
+#pip install -r requirements.txt
